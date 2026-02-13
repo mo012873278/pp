@@ -1,5 +1,5 @@
 body{
-    margin: 0;
+    margin: 1;
     direction: rtl;
     background-color: rgb(160, 192, 183)
 }
@@ -95,4 +95,5 @@ hr{
 }
 p .b{
     background-color: rgb(150, 41, 41);
+
 }
