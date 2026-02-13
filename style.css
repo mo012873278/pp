@@ -1,7 +1,7 @@
 body{
     margin: 1;
     direction: rtl;
-    background-color: rgb(160, 192, 183)
+    background-color: rgb(160, 192, 183);
     text-align:center;
 }
 .zad{
@@ -98,4 +98,5 @@ p .b{
     background-color: rgb(150, 41, 41);
 
 }
+
 
