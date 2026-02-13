@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+    direction: rtl;
+    background-color: rgb(160, 192, 183)
+}
+.zad{
+    text-align: center;
+    background-color: rgb(231, 198, 9);
+    border-radius : 25px;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.zad div{
+    animation: zed 2s ;
+}
+@keyframes zed{
+    from{
+        transform: translateY(50px);
+        opacity: 0;
+    }
+    to{
+        transform: translatey(0);
+        opacity: 1;
+    }
+}
+.zad h1{
+    font-size: xxx-large;
+}
+.zad p{
+    font-size: x-large;
+    margin-top: -10px;
+}
+nav{
+   background-color: green;
+   width: 100%;
+   margin: 12px 0;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    padding: 12px;
+}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    margin-left: 6px;
+}
+p{
+    font-weight: bold;
+}
+.page-1 h2{
+    text-align: center;
+}
+.page-1 h3{
+    font-size: 20px;
+}
+.pragraf{
+    text-align: center;
+}
+.page-1 p b{
+    background-color: rgba(139, 32, 32, 0.89);
+    font-size: 18px;
+   
+}
+h2{
+    background-color: rgba(50, 160, 160, 0.692);
+    display: inline-block;
+}
+ul li{
+    font-weight: bold;
+}
+
+.name{
+    text-align: center;
+    font-size: x-large;
+}
+.name a{
+    margin-right: 13px;
+}
+footer{
+    text-align: center;
+}
+.link5{
+    color:gold;
+}
+hr{
+    height: 2px;
+    background-color: black;
+}
+p .b{
+    background-color: rgb(150, 41, 41);
+}
