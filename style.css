@@ -65,7 +65,7 @@ p{
     text-align: center;
 }
 .page-1 p b{
-    background-color: rgba(139, 32, 32, 0.89);
+  background-color: rgb(218 41 41 / 83%);
     font-size: 18px;
    
 }
@@ -98,5 +98,6 @@ p .b{
     background-color: rgb(150, 41, 41);
 
 }
+
 
 
